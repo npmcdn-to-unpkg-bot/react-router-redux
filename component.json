@@ -5,6 +5,11 @@
   "dependencies": [
     "github:fis-components/react@0.14.6",
     "github:fis-components/react-dom@0.14.6",
-    "github:fis-components/react-router@2.0.0-rc5"
+    "github:fis-components/react-router@2.0.0-rc5",
+    "github:fis-components/redux@3.3.1",
+    "github:fis-components/react-redux@v4.0.0",
+    "github:fis-components/jquery@2.2.3",
+    "github:fis-components/classnames@2.2.3",
+    "github:fis-components/react-router-redux@4.0.0"
   ]
 }
